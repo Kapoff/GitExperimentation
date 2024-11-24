@@ -1,0 +1,5 @@
+- Add a file from local
+- push it to remote
+- check online for the new file
+- ...
+- PROFIT!!!11!!11
