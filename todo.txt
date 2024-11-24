@@ -2,5 +2,6 @@
 - push it to remote
 - check online for the new file
 - update password stuff
+- add fasd foods list
 - ...
 - PROFIT!!!11!!11
